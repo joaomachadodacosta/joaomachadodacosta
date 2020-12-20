@@ -14,5 +14,5 @@ My goal is to add value by combining my knowledge with programming.
 
 Reach me out👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-João_Pedro%20Machado_Da_Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-mc/)](https://www.https://www.linkedin.com/in/joaopedromc/) 
+[![Linkedin Badge](https://img.shields.io/badge/-João_Pedro%20Machado_Da_Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedromc/)](https://www.https://www.linkedin.com/in/joaopedromc/) 
 [![Gmail Badge](https://img.shields.io/badge/-joaomachadodacosta@gmail.com-ab0909?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:joaomachadodacosta@gmail.com)
