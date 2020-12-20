@@ -6,11 +6,11 @@ I have an eagle eye for **design** with a special aptitude to **communicate** ef
 
 My goal is to add value by combining my knowledge with programming.
 
-- 📍 From Lisbon
--  💻 Junior FullStack Developer
--  📚 Books
--  🔔 Podcasts
--  🥋 Brazilian Jiu-Jitsu
+- 📍  From Lisbon
+-  💻  Junior FullStack Developer
+-  📚  Books
+-  🔔  Podcasts
+-  🥋  Brazilian Jiu-Jitsu
 
 Reach me out👇🏻
 
