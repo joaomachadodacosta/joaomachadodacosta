@@ -1,6 +1,6 @@
 # Hey! 💥 🤙🏻
 
-I am **Junior FullStack Developer** looking to solve real problems.  
+I am **UX/UI** looking to solve real problems.  
 
 I have an eagle eye for **design** with a special aptitude to **communicate** effectively and in an appealing way.
 
