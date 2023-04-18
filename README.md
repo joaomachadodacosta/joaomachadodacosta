@@ -2,12 +2,12 @@
 
 I am **Junior FullStack Developer** looking to solve real problems.  
 
-I have an eagle eye for **design** with a special aptitude to **communicate** effectively and in an appealing way. Now I have been completely intoxicated by code and since then I have not been able to leave IT. **I am addicted!** 
+I have an eagle eye for **design** with a special aptitude to **communicate** effectively and in an appealing way.
 
 My goal is to add value by combining my knowledge with programming.
 
 - 📍  From Lisbon
--  💻  Junior FullStack Developer
+-  💻  UX/UI
 -  📚  Books
 -  🔔  Podcasts
 -  🥋  Brazilian Jiu-Jitsu
