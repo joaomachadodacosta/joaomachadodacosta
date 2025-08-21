@@ -1,4 +1,4 @@
-# Hey! 💥 🤙🏻
+# Hello! 💥 🤙🏻
 
 I am **UX/UI** looking to solve real problems.  
 
